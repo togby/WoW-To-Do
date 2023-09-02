@@ -1,0 +1,25 @@
+## Interface: 100002
+## Title: WoW To Do
+## SavedVariables: WoWToDoDB
+
+Libs/Ace3.toc
+locale.lua
+
+Event.lua
+
+UI/UI.lua
+UI/SettingsWindow.lua
+UI/InGameOverview.lua
+
+UI/Views/GridView.lua
+UI/MinimapButton.lua
+UI/FrameFactory.lua
+UI/ToDoList.lua
+
+Settings.lua
+Core.lua
+
+
+data/JobList.lua
+
+data/dragonflight/Zaralel Cavern.lua
